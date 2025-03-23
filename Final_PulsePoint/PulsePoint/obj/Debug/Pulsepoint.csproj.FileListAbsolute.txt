@@ -1,0 +1,177 @@
+C:\Users\jerry\OneDrive\Documents\Clinic\Pulsepoint\bin\Pulsepoint.dll.config
+C:\Users\jerry\OneDrive\Documents\Clinic\Pulsepoint\bin\Pulsepoint.dll
+C:\Users\jerry\OneDrive\Documents\Clinic\Pulsepoint\bin\Pulsepoint.pdb
+C:\Users\jerry\OneDrive\Documents\Clinic\Pulsepoint\bin\roslyn\csc.exe
+C:\Users\jerry\OneDrive\Documents\Clinic\Pulsepoint\bin\roslyn\csc.exe.config
+C:\Users\jerry\OneDrive\Documents\Clinic\Pulsepoint\bin\roslyn\csc.rsp
+C:\Users\jerry\OneDrive\Documents\Clinic\Pulsepoint\bin\roslyn\csi.exe
+C:\Users\jerry\OneDrive\Documents\Clinic\Pulsepoint\bin\roslyn\csi.exe.config
+C:\Users\jerry\OneDrive\Documents\Clinic\Pulsepoint\bin\roslyn\csi.rsp
+C:\Users\jerry\OneDrive\Documents\Clinic\Pulsepoint\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jerry\OneDrive\Documents\Clinic\Pulsepoint\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jerry\OneDrive\Documents\Clinic\Pulsepoint\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jerry\OneDrive\Documents\Clinic\Pulsepoint\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jerry\OneDrive\Documents\Clinic\Pulsepoint\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jerry\OneDrive\Documents\Clinic\Pulsepoint\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jerry\OneDrive\Documents\Clinic\Pulsepoint\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jerry\OneDrive\Documents\Clinic\Pulsepoint\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jerry\OneDrive\Documents\Clinic\Pulsepoint\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jerry\OneDrive\Documents\Clinic\Pulsepoint\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\jerry\OneDrive\Documents\Clinic\Pulsepoint\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jerry\OneDrive\Documents\Clinic\Pulsepoint\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\jerry\OneDrive\Documents\Clinic\Pulsepoint\bin\roslyn\System.AppContext.dll
+C:\Users\jerry\OneDrive\Documents\Clinic\Pulsepoint\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jerry\OneDrive\Documents\Clinic\Pulsepoint\bin\roslyn\System.Console.dll
+C:\Users\jerry\OneDrive\Documents\Clinic\Pulsepoint\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jerry\OneDrive\Documents\Clinic\Pulsepoint\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jerry\OneDrive\Documents\Clinic\Pulsepoint\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jerry\OneDrive\Documents\Clinic\Pulsepoint\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\jerry\OneDrive\Documents\Clinic\Pulsepoint\bin\roslyn\System.IO.Compression.dll
+C:\Users\jerry\OneDrive\Documents\Clinic\Pulsepoint\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\jerry\OneDrive\Documents\Clinic\Pulsepoint\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jerry\OneDrive\Documents\Clinic\Pulsepoint\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jerry\OneDrive\Documents\Clinic\Pulsepoint\bin\roslyn\System.Net.Http.dll
+C:\Users\jerry\OneDrive\Documents\Clinic\Pulsepoint\bin\roslyn\System.Net.Sockets.dll
+C:\Users\jerry\OneDrive\Documents\Clinic\Pulsepoint\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jerry\OneDrive\Documents\Clinic\Pulsepoint\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\jerry\OneDrive\Documents\Clinic\Pulsepoint\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\jerry\OneDrive\Documents\Clinic\Pulsepoint\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\jerry\OneDrive\Documents\Clinic\Pulsepoint\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\jerry\OneDrive\Documents\Clinic\Pulsepoint\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jerry\OneDrive\Documents\Clinic\Pulsepoint\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\jerry\OneDrive\Documents\Clinic\Pulsepoint\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\jerry\OneDrive\Documents\Clinic\Pulsepoint\bin\roslyn\System.ValueTuple.dll
+C:\Users\jerry\OneDrive\Documents\Clinic\Pulsepoint\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\jerry\OneDrive\Documents\Clinic\Pulsepoint\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\jerry\OneDrive\Documents\Clinic\Pulsepoint\bin\roslyn\System.Xml.XPath.dll
+C:\Users\jerry\OneDrive\Documents\Clinic\Pulsepoint\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\jerry\OneDrive\Documents\Clinic\Pulsepoint\bin\roslyn\vbc.exe
+C:\Users\jerry\OneDrive\Documents\Clinic\Pulsepoint\bin\roslyn\vbc.exe.config
+C:\Users\jerry\OneDrive\Documents\Clinic\Pulsepoint\bin\roslyn\vbc.rsp
+C:\Users\jerry\OneDrive\Documents\Clinic\Pulsepoint\bin\roslyn\VBCSCompiler.exe
+C:\Users\jerry\OneDrive\Documents\Clinic\Pulsepoint\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jerry\OneDrive\Documents\Clinic\Pulsepoint\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jerry\OneDrive\Documents\Clinic\Pulsepoint\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jerry\OneDrive\Documents\Clinic\Pulsepoint\obj\Debug\Pulsepoint.csproj.AssemblyReference.cache
+C:\Users\jerry\OneDrive\Documents\Clinic\Pulsepoint\obj\Debug\Pulsepoint.csproj.CoreCompileInputs.cache
+C:\Users\jerry\OneDrive\Documents\Clinic\Pulsepoint\obj\Debug\Pulsepoint.csproj.Up2Date
+C:\Users\jerry\OneDrive\Documents\Clinic\Pulsepoint\obj\Debug\Pulsepoint.dll
+C:\Users\jerry\OneDrive\Documents\Clinic\Pulsepoint\obj\Debug\Pulsepoint.pdb
+C:\Users\Jhan Maurice\OneDrive\Desktop\PulsePoint\bin\Pulsepoint.dll.config
+C:\Users\Jhan Maurice\OneDrive\Desktop\PulsePoint\bin\Pulsepoint.dll
+C:\Users\Jhan Maurice\OneDrive\Desktop\PulsePoint\bin\Pulsepoint.pdb
+C:\Users\Jhan Maurice\OneDrive\Desktop\PulsePoint\bin\roslyn\csc.exe
+C:\Users\Jhan Maurice\OneDrive\Desktop\PulsePoint\bin\roslyn\csc.exe.config
+C:\Users\Jhan Maurice\OneDrive\Desktop\PulsePoint\bin\roslyn\csc.rsp
+C:\Users\Jhan Maurice\OneDrive\Desktop\PulsePoint\bin\roslyn\csi.exe
+C:\Users\Jhan Maurice\OneDrive\Desktop\PulsePoint\bin\roslyn\csi.exe.config
+C:\Users\Jhan Maurice\OneDrive\Desktop\PulsePoint\bin\roslyn\csi.rsp
+C:\Users\Jhan Maurice\OneDrive\Desktop\PulsePoint\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jhan Maurice\OneDrive\Desktop\PulsePoint\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jhan Maurice\OneDrive\Desktop\PulsePoint\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Jhan Maurice\OneDrive\Desktop\PulsePoint\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jhan Maurice\OneDrive\Desktop\PulsePoint\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Jhan Maurice\OneDrive\Desktop\PulsePoint\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jhan Maurice\OneDrive\Desktop\PulsePoint\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jhan Maurice\OneDrive\Desktop\PulsePoint\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Jhan Maurice\OneDrive\Desktop\PulsePoint\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Jhan Maurice\OneDrive\Desktop\PulsePoint\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Jhan Maurice\OneDrive\Desktop\PulsePoint\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jhan Maurice\OneDrive\Desktop\PulsePoint\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Jhan Maurice\OneDrive\Desktop\PulsePoint\bin\roslyn\System.AppContext.dll
+C:\Users\Jhan Maurice\OneDrive\Desktop\PulsePoint\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jhan Maurice\OneDrive\Desktop\PulsePoint\bin\roslyn\System.Console.dll
+C:\Users\Jhan Maurice\OneDrive\Desktop\PulsePoint\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jhan Maurice\OneDrive\Desktop\PulsePoint\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Jhan Maurice\OneDrive\Desktop\PulsePoint\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Jhan Maurice\OneDrive\Desktop\PulsePoint\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Jhan Maurice\OneDrive\Desktop\PulsePoint\bin\roslyn\System.IO.Compression.dll
+C:\Users\Jhan Maurice\OneDrive\Desktop\PulsePoint\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Jhan Maurice\OneDrive\Desktop\PulsePoint\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Jhan Maurice\OneDrive\Desktop\PulsePoint\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Jhan Maurice\OneDrive\Desktop\PulsePoint\bin\roslyn\System.Net.Http.dll
+C:\Users\Jhan Maurice\OneDrive\Desktop\PulsePoint\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Jhan Maurice\OneDrive\Desktop\PulsePoint\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jhan Maurice\OneDrive\Desktop\PulsePoint\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Jhan Maurice\OneDrive\Desktop\PulsePoint\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Jhan Maurice\OneDrive\Desktop\PulsePoint\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Jhan Maurice\OneDrive\Desktop\PulsePoint\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Jhan Maurice\OneDrive\Desktop\PulsePoint\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Jhan Maurice\OneDrive\Desktop\PulsePoint\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Jhan Maurice\OneDrive\Desktop\PulsePoint\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Jhan Maurice\OneDrive\Desktop\PulsePoint\bin\roslyn\System.ValueTuple.dll
+C:\Users\Jhan Maurice\OneDrive\Desktop\PulsePoint\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Jhan Maurice\OneDrive\Desktop\PulsePoint\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Jhan Maurice\OneDrive\Desktop\PulsePoint\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Jhan Maurice\OneDrive\Desktop\PulsePoint\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Jhan Maurice\OneDrive\Desktop\PulsePoint\bin\roslyn\vbc.exe
+C:\Users\Jhan Maurice\OneDrive\Desktop\PulsePoint\bin\roslyn\vbc.exe.config
+C:\Users\Jhan Maurice\OneDrive\Desktop\PulsePoint\bin\roslyn\vbc.rsp
+C:\Users\Jhan Maurice\OneDrive\Desktop\PulsePoint\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jhan Maurice\OneDrive\Desktop\PulsePoint\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jhan Maurice\OneDrive\Desktop\PulsePoint\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jhan Maurice\OneDrive\Desktop\PulsePoint\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jhan Maurice\OneDrive\Desktop\PulsePoint\obj\Debug\Pulsepoint.csproj.AssemblyReference.cache
+C:\Users\Jhan Maurice\OneDrive\Desktop\PulsePoint\obj\Debug\Pulsepoint.csproj.CoreCompileInputs.cache
+C:\Users\Jhan Maurice\OneDrive\Desktop\PulsePoint\obj\Debug\Pulsepoint.csproj.Up2Date
+C:\Users\Jhan Maurice\OneDrive\Desktop\PulsePoint\obj\Debug\Pulsepoint.dll
+C:\Users\Jhan Maurice\OneDrive\Desktop\PulsePoint\obj\Debug\Pulsepoint.pdb
+C:\Users\perni\Downloads\Final_PulsePoint\PulsePoint\bin\Pulsepoint.dll.config
+C:\Users\perni\Downloads\Final_PulsePoint\PulsePoint\bin\Pulsepoint.dll
+C:\Users\perni\Downloads\Final_PulsePoint\PulsePoint\bin\Pulsepoint.pdb
+C:\Users\perni\Downloads\Final_PulsePoint\PulsePoint\bin\roslyn\csc.exe
+C:\Users\perni\Downloads\Final_PulsePoint\PulsePoint\bin\roslyn\csc.exe.config
+C:\Users\perni\Downloads\Final_PulsePoint\PulsePoint\bin\roslyn\csc.rsp
+C:\Users\perni\Downloads\Final_PulsePoint\PulsePoint\bin\roslyn\csi.exe
+C:\Users\perni\Downloads\Final_PulsePoint\PulsePoint\bin\roslyn\csi.exe.config
+C:\Users\perni\Downloads\Final_PulsePoint\PulsePoint\bin\roslyn\csi.rsp
+C:\Users\perni\Downloads\Final_PulsePoint\PulsePoint\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\perni\Downloads\Final_PulsePoint\PulsePoint\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\perni\Downloads\Final_PulsePoint\PulsePoint\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\perni\Downloads\Final_PulsePoint\PulsePoint\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\perni\Downloads\Final_PulsePoint\PulsePoint\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\perni\Downloads\Final_PulsePoint\PulsePoint\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\perni\Downloads\Final_PulsePoint\PulsePoint\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\perni\Downloads\Final_PulsePoint\PulsePoint\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\perni\Downloads\Final_PulsePoint\PulsePoint\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\perni\Downloads\Final_PulsePoint\PulsePoint\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\perni\Downloads\Final_PulsePoint\PulsePoint\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\perni\Downloads\Final_PulsePoint\PulsePoint\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\perni\Downloads\Final_PulsePoint\PulsePoint\bin\roslyn\System.AppContext.dll
+C:\Users\perni\Downloads\Final_PulsePoint\PulsePoint\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\perni\Downloads\Final_PulsePoint\PulsePoint\bin\roslyn\System.Console.dll
+C:\Users\perni\Downloads\Final_PulsePoint\PulsePoint\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\perni\Downloads\Final_PulsePoint\PulsePoint\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\perni\Downloads\Final_PulsePoint\PulsePoint\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\perni\Downloads\Final_PulsePoint\PulsePoint\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\perni\Downloads\Final_PulsePoint\PulsePoint\bin\roslyn\System.IO.Compression.dll
+C:\Users\perni\Downloads\Final_PulsePoint\PulsePoint\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\perni\Downloads\Final_PulsePoint\PulsePoint\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\perni\Downloads\Final_PulsePoint\PulsePoint\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\perni\Downloads\Final_PulsePoint\PulsePoint\bin\roslyn\System.Net.Http.dll
+C:\Users\perni\Downloads\Final_PulsePoint\PulsePoint\bin\roslyn\System.Net.Sockets.dll
+C:\Users\perni\Downloads\Final_PulsePoint\PulsePoint\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\perni\Downloads\Final_PulsePoint\PulsePoint\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\perni\Downloads\Final_PulsePoint\PulsePoint\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\perni\Downloads\Final_PulsePoint\PulsePoint\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\perni\Downloads\Final_PulsePoint\PulsePoint\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\perni\Downloads\Final_PulsePoint\PulsePoint\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\perni\Downloads\Final_PulsePoint\PulsePoint\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\perni\Downloads\Final_PulsePoint\PulsePoint\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\perni\Downloads\Final_PulsePoint\PulsePoint\bin\roslyn\System.ValueTuple.dll
+C:\Users\perni\Downloads\Final_PulsePoint\PulsePoint\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\perni\Downloads\Final_PulsePoint\PulsePoint\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\perni\Downloads\Final_PulsePoint\PulsePoint\bin\roslyn\System.Xml.XPath.dll
+C:\Users\perni\Downloads\Final_PulsePoint\PulsePoint\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\perni\Downloads\Final_PulsePoint\PulsePoint\bin\roslyn\vbc.exe
+C:\Users\perni\Downloads\Final_PulsePoint\PulsePoint\bin\roslyn\vbc.exe.config
+C:\Users\perni\Downloads\Final_PulsePoint\PulsePoint\bin\roslyn\vbc.rsp
+C:\Users\perni\Downloads\Final_PulsePoint\PulsePoint\bin\roslyn\VBCSCompiler.exe
+C:\Users\perni\Downloads\Final_PulsePoint\PulsePoint\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\perni\Downloads\Final_PulsePoint\PulsePoint\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\perni\Downloads\Final_PulsePoint\PulsePoint\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\perni\Downloads\Final_PulsePoint\PulsePoint\obj\Debug\Pulsepoint.csproj.AssemblyReference.cache
+C:\Users\perni\Downloads\Final_PulsePoint\PulsePoint\obj\Debug\Pulsepoint.csproj.CoreCompileInputs.cache
+C:\Users\perni\Downloads\Final_PulsePoint\PulsePoint\obj\Debug\Pulsepoint.csproj.Up2Date
+C:\Users\perni\Downloads\Final_PulsePoint\PulsePoint\obj\Debug\Pulsepoint.dll
+C:\Users\perni\Downloads\Final_PulsePoint\PulsePoint\obj\Debug\Pulsepoint.pdb
